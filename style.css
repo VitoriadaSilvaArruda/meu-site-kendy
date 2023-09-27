@@ -1,0 +1,36 @@
+.aula-2{
+    color: white;
+    background-color: blueviolet;
+    height: 150px;
+    width: 150px;
+    padding-top: 20px;
+    padding-left: 20px;
+    border: 30px solid yellow;
+}
+
+.aula-3{
+    color: white;
+    background-color: green;
+    height: 150px;
+    width: 150px;
+    padding-top: 20px;
+    padding-left: 20px;
+    border: 30px solid yellow;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.aula-4{
+    color: white;
+    background-color: green;
+    height: 150px;
+    width: 150px;
+    padding-top: 20px;
+    padding-left: 20px;
+    border-top-right-radius: 100px;
+    border-top-left-radius: 50px ;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+

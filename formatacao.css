@@ -1,0 +1,247 @@
+.fotoprincipal{
+    padding-left: 200px;
+    padding-bottom: 50px;
+
+}
+#titulo{
+    color: rgb(241, 186, 224);
+    font-size: 30px; 
+    background-color: rgb(107, 149, 246);
+    height: 70px;
+    width: 800px;
+    border-radius: 30px;
+    padding-top: 40px;
+    padding-left: 225px;
+    margin-left: 300px;
+    font-weight: bold;
+    font: arial;
+
+    
+}
+
+
+#canva{
+    padding-left: 310px;
+    padding-top: 40px;
+}
+
+#link{
+    margin-top: 30px;
+    margin-left: 450px;
+    padding-left: 285px;
+    padding-right: 250px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: blue;
+    border: 0px;
+    font: arial;
+    font-size: 30px;
+    font-weight: bolder;
+    border-radius: 20px;
+    color: white;
+ 
+
+
+}
+
+#tela{
+    background-color: honeydew;
+}
+#tela2{
+    background-color: honeydew;
+}
+
+
+#primeiro{
+    color: rgb(241, 186, 224);
+    font-size: 30px; 
+    background-color: rgb(107, 149, 246);
+    height: 70px;
+    width: 1200px;
+    border-radius: 30px;
+    padding-bottom: 20px;
+    padding-top: 50px;
+    padding-left: 80px;
+    margin-left: 165px;
+    font-weight: bold;
+    font: arial;
+
+    
+    
+}
+
+
+.opcoes{
+    background-color: rgb(107, 149, 246);
+    margin-top: 100px;
+    margin-left: 265px;
+    padding-left: 145px;
+    padding-top: 60px;
+    padding-bottom: 30px;
+    width: 1100px;
+    height: 1500px;
+    border-radius: 30px;
+    color: white;
+    font: arial;
+    font-size: 30px;
+
+}
+
+.perguntas{
+    font-weight: bolder;
+    color: rgb(241, 186, 224);
+    
+}
+
+.topicos{
+    color: rgb(241, 186, 224);
+
+
+}
+
+#link2{
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-left: 20px;
+    padding-left: 270px;
+    padding-right: 250px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: blue;
+    border: 0px;
+    font: arial;
+    font-size: 30px;
+    font-weight: bolder;
+    border-radius: 20px;
+    color: white;
+ 
+
+}
+
+.resultado{
+    background-color: antiquewhite;
+}
+
+.img{
+    padding-top: 0px;
+    
+   
+
+}
+
+.titulofinal1{
+    color: rgb(241, 186, 224);
+    font-weight: bolder;
+    font: arial;
+    font-size: 30px;
+    font-weight: bolder;
+    
+
+}
+
+.titulofinal2{
+    color: rgb(241, 186, 224);
+    font-weight: bolder;
+    font: arial;
+    font-size: 25px;
+    font-weight: bolder;
+    
+
+}
+
+
+
+.textofinal1{
+    margin-left: 400px;
+    color: rgb(250, 227, 243);
+    font-weight: bolder;
+    font: arial;
+    font-size: 30px;
+    font-weight: bolder;
+    
+    
+}
+
+.resultado1{
+    background-color: rgb(107, 149, 246);
+    width: 300px;
+    height: 300px;
+    margin-left: 600px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 50px;
+    
+    
+}
+
+
+.resultado2{
+    background-color: rgb(107, 149, 246);
+    width: 300px;
+    height: 300px;
+    margin-left: 600px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+    
+}
+
+
+.resultado3{
+    background-color: rgb(107, 149, 246);
+    width: 300px;
+    height: 300px;
+    margin-left: 600px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+    
+}
+
+
+.resultado4{
+    background-color: rgb(107, 149, 246);
+    width: 300px;
+    height: 300px;
+    margin-left: 600px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+    
+}
+
+
+.resultado5{
+    background-color: rgb(107, 149, 246);
+    width: 300px;
+    height: 300px;
+    margin-left: 600px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+    padding-left: 85px;
+    padding-right: 60px;
+    
+    
+}
+
+
+.email{
+    height: 60px;
+    width: 400px;
+    margin-left: 180px;
+    background-color:rgb(255, 255, 255);
+    font-weight: bold;
+    font: arial;
+    border-color:rgb(241, 186, 224); ;
+    margin-top: 100px;
+
+}
+
+
